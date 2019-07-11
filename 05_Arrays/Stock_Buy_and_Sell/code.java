@@ -53,7 +53,7 @@ class Stock{
                 }else{
                     if(ind>-1){
                         str.append("("+ind+" "+i+") ");
-                        //System.out.println("Radis li");
+                       
                 }
                 ind=-1;
             }
